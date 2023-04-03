@@ -1,0 +1,12 @@
+2023-04-03 02:17:14.954167 - Initialized conversion of CBT735
+2023-04-03 02:17:15.037698 - Received CBT.V504.FILE735.PDS from FILE735.XMI 
+2023-04-03 02:17:15.039997 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:17:15.041374 - Found @FILE735.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/@FILE735
+2023-04-03 02:17:15.042373 - Found ALIGN.rexx (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/ALIGN
+2023-04-03 02:17:15.043463 - Found ALIGNP.rexx (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/ALIGNP
+2023-04-03 02:17:15.044387 - Found FLIPM.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/FLIPM
+2023-04-03 02:17:15.045308 - Found FNOT.rexx (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/FNOT
+2023-04-03 02:17:15.046207 - Found F1.rexx (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/F1
+2023-04-03 02:17:15.047174 - Found F3.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/F3
+2023-04-03 02:17:15.048205 - Found KOPY.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/KOPY
+2023-04-03 02:17:15.049105 - Found LIT.txt (text/plain) in CBT.V504.FILE735.PDS, moved to PDS/LIT
