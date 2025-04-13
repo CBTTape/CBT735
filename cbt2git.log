@@ -1,0 +1,11 @@
+2025-04-13 22:15:40.339272 - Received CBT.V505.FILE735.PDS from FILE735.XMI 
+2025-04-13 22:15:40.340394 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/$$$#DATE
+2025-04-13 22:15:40.340490 - Found @FILE735.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/@FILE735
+2025-04-13 22:15:40.340574 - Found ALIGN.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGN
+2025-04-13 22:15:40.340649 - Found ALIGNP.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGNP
+2025-04-13 22:15:40.340726 - Found FLIPM.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FLIPM
+2025-04-13 22:15:40.340808 - Found FNOT.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FNOT
+2025-04-13 22:15:40.340887 - Found F1.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F1
+2025-04-13 22:15:40.340964 - Found F3.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F3
+2025-04-13 22:15:40.341042 - Found KOPY.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/KOPY
+2025-04-13 22:15:40.341119 - Found LIT.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/LIT
