@@ -1,11 +1,11 @@
-2025-04-15 05:06:31.251202 - Received CBT.V505.FILE735.PDS from FILE735.XMI 
-2025-04-15 05:06:31.252554 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:06:31.252860 - Found @FILE735.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/@FILE735
-2025-04-15 05:06:31.253168 - Found ALIGN.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGN
-2025-04-15 05:06:31.253459 - Found ALIGNP.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGNP
-2025-04-15 05:06:31.253744 - Found FLIPM.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FLIPM
-2025-04-15 05:06:31.254033 - Found FNOT.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FNOT
-2025-04-15 05:06:31.254317 - Found F1.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F1
-2025-04-15 05:06:31.254604 - Found F3.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F3
-2025-04-15 05:06:31.254888 - Found KOPY.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/KOPY
-2025-04-15 05:06:31.255181 - Found LIT.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/LIT
+2025-04-15 23:47:38.414778 - Received CBT.V505.FILE735.PDS from FILE735.XMI 
+2025-04-15 23:47:38.416156 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:47:38.416219 - Found @FILE735.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/@FILE735
+2025-04-15 23:47:38.416529 - Found ALIGN.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGN
+2025-04-15 23:47:38.416840 - Found ALIGNP.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/ALIGNP
+2025-04-15 23:47:38.417138 - Found FLIPM.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FLIPM
+2025-04-15 23:47:38.417435 - Found FNOT.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/FNOT
+2025-04-15 23:47:38.417739 - Found F1.rexx (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F1
+2025-04-15 23:47:38.418036 - Found F3.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/F3
+2025-04-15 23:47:38.418326 - Found KOPY.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/KOPY
+2025-04-15 23:47:38.418614 - Found LIT.txt (text/plain) in CBT.V505.FILE735.PDS, moved to PDS/LIT
